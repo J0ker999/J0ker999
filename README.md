@@ -1,7 +1,7 @@
-Hi, I'm Zak 🛡
+# Hi, I'm Zak! 🛰️
 
-**Aspiring Cyber Engineer
+### 🛡️ Aspiring Cyber Engineer
 
-    ⚙ Automation: Building scripts in Bash and Python.
-    🛡 Cyber Defense: Focused on Linux/Windows hardening and security.
-    🔍 Analysis: Interested in breaking down and analysing malware
+- ⚡ **Automation:** Building deployment and scripting tools in Bash and Python.
+- 🎛️ **Cyber Defense:** Focused on Linux and Windows hardening, access controls, and infrastructure security.
+- 🔮 **Analysis:** Deconstructing systems, tracking vulnerabilities, and analysing malware.
